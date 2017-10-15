@@ -1,6 +1,8 @@
 # Tensorflow-learning
 一、简述
+/hr
   这周的学习主要结合哔哩哔哩的莫烦视频、Tensorflow中文社区、numpy文档和pandas文档进行学习。
+/br
 二、学习过程
   1.先看了一遍莫烦视频里对Tensorflow的运行过程和基本操作有了初步的认识。
   2.跟着视频敲了一遍cnn和rnn的代码，对于如何使用Tensorlfolw建立神经网络模型有了基本认识。
